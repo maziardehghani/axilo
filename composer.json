@@ -1,0 +1,21 @@
+{
+    "name": "aziaremo/axilo",
+    "description": "this is a micro framework project for learning MVC pattern",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abu maziar",
+            "email": "maziardehghani1380@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
